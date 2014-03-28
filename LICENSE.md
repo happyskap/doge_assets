@@ -2,7 +2,7 @@
 
 ### We will respond swiftly and appropriately to any valid takedown requests under the DMCA or other applicable law.  If you feel your rights have been violated, you may send details to <a href="mailto:urthwalker@thehindsightfactor.com">the maintainer</a>.
 
-### CC BY-NC-SA Summary
+### CC BY-NC-SA Summarysdfasdfasdfasd
 
 This is a human-readable summary of (and not a substitute for) the [license](http://creativecommons.org/licenses/by-nc-sa/4.0/legalcode).
 
